@@ -8,3 +8,26 @@ Detta projekt skapar en Ubuntu VM i Google Cloud med Terraform. Den inkluderar e
 terraform init
 terraform plan
 terraform apply
+
+# Min Labb
+
+## Google Compute Engine
+
+Här är en screenshot från Google Compute Engine:
+
+![GCE Screenshot](images/GCP.png)
+
+## Terraform Pipeline
+
+Så här såg Terraform pipeline ut:
+
+![Pipeline Screenshot](images/pipeline 2.png)
+
+
+Säkerhetsbeslut
+
+ufw – blockerar alla inkommande förutom SSH
+
+fail2ban – skyddar mot brute-force attacker
+
+unattended-upgrades – håller systemet uppdaterat automatiskt
