@@ -21,7 +21,7 @@ Här är en screenshot från Google Compute Engine:
 
 Så här såg Terraform pipeline ut:
 
-![Pipeline Screenshot](images/pipeline 2.png)
+![Pipeline Screenshot](images/pipeline2.png)
 
 
 Säkerhetsbeslut
