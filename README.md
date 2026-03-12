@@ -8,6 +8,7 @@ Detta projekt skapar en Ubuntu VM i Google Cloud med Terraform. Den inkluderar e
 terraform init
 terraform plan
 terraform apply
+```
 
 # Min Labb
 
